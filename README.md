@@ -2,6 +2,6 @@
 
 1. base64 codec is from [here](https://codeload.github.com/joedf/).
 
-2. hmac lib is from [here](https://github.com/madwyn/mad-hmac).
+2. hmac lib is from [here](https://github.com/madwyn/mad-hmac), [BSD 3-Clause "New" or "Revised" License](https://github.com/madwyn/mad-hmac/blob/master/LICENSE)
 
 3. aes lib is from [here](https://github.com/kokke/tiny-AES-c)
