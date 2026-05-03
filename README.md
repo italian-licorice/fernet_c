@@ -4,4 +4,4 @@
 
 2. hmac lib is from [here](https://github.com/madwyn/mad-hmac), [BSD 3-Clause "New" or "Revised" License](https://github.com/madwyn/mad-hmac/blob/master/LICENSE)
 
-3. aes lib is from [here](https://github.com/kokke/tiny-AES-c)
+3. aes lib is from [here](https://github.com/kokke/tiny-AES-c), [public domain, Unlicense](https://github.com/kokke/tiny-AES-c/blob/master/unlicense.txt)
