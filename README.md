@@ -1,6 +1,6 @@
 # License
 
-1. base64 codec is from [here](https://codeload.github.com/joedf/).
+1. base64 codec is from [here](https://github.com/joedf/base64.c), [MIT License](https://github.com/joedf/base64.c/blob/master/LICENSE).
 
 2. hmac lib is from [here](https://github.com/madwyn/mad-hmac), [BSD 3-Clause "New" or "Revised" License](https://github.com/madwyn/mad-hmac/blob/master/LICENSE)
 
